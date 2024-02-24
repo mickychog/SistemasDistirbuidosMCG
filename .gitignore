@@ -1,0 +1,44 @@
+/Practica 1/Ejericio2/nbproject/private/
+/Laboratorios/Laboratorio1/target/
+
+# Bytecode
+*.class
+
+# Compiled files
+target/
+bin/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+log/
+
+# Temporary files
+*.tmp
+
+# Maven
+log/
+target/
+*.releaseBackup
+*.releaseBackup.*
+*.versionsBackup
+*.jar.original
+target/
+
