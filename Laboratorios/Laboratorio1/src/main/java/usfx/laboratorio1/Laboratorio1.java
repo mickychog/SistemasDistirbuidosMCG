@@ -52,7 +52,7 @@ public class Laboratorio1 {
     private static void ejercicio1() {
         System.out.println("Ejercicio 1 seleccionado.");
         System.out.println("--------------------------");
-        // Llamada al método main de la CalculadoraRectangulo
+
         CalculadoraRectangulo.main(new String[]{});
     }
 
