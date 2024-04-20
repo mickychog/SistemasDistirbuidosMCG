@@ -8,7 +8,7 @@ const transporter = nodemailer.createTransport({
     service: 'Gmail',
     auth: {
         user: 'choque.garcia.miguelangel@usfx.bo', // dirección de correo
-        pass: '4305583Macg' // contraseña
+        pass: '1234567890abcd' // contraseña
     }
 });
 
