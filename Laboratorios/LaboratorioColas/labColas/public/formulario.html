@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscripción CCBOL 2024</title>
+    <link rel="stylesheet" href="styles.css">
+
+    
+</head>
+
+<body>
+    <h1>Inscripción CCBOL 2024</h1>
+    <form action="/inscripcion" method="POST">
+        <label for="ci">Carnet de Identidad:</label><br>
+        <input type="text" id="ci" name="ci" required><br>
+
+        <label for="nombres">Nombres:</label><br>
+        <input type="text" id="nombres" name="nombres" required><br>
+
+        <label for="apellidos">Apellidos:</label><br>
+        <input type="text" id="apellidos" name="apellidos" required><br>
+
+        <label for="fecha_nacimiento">Fecha de Nacimiento:</label><br>
+        <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required><br>
+
+        <label for="carrera">Carrera:</label><br>
+        <input type="text" id="carrera" name="carrera" required><br>
+
+        <label for="ciudad">Ciudad:</label><br>
+        <input type="text" id="ciudad" name="ciudad" required><br>
+
+        <label for="direccion">Dirección:</label><br>
+        <input type="text" id="direccion" name="direccion" required><br>
+
+        <label for="email">Correo Electrónico:</label><br>
+        <input type="email" id="email" name="email" required><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+
+</html>
