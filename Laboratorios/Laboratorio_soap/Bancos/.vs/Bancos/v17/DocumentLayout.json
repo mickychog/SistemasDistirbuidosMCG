@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|c:\\users\\micky\\onedrive\\escritorio\\sistemasdistribuidos\\sistemasdistribuidos1-24\\tema7\\bancos\\bancos\\bcp.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\bcp.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\bancos\\app_code\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\app_code\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\bancos\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\bancos\\app_code\\bcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\app_code\\bcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\bancos\\app_code\\mercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\app_code\\mercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\bancos\\mercantil.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{2EFC79C7-ECFF-414F-AC5F-59092DFA93F6}|D:\\usfx\\1-2024\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos|solutionrelative:bancos\\mercantil.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BCP.asmx",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\BCP.asmx",
+              "RelativeDocumentMoniker": "Bancos\\BCP.asmx",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\BCP.asmx",
+              "RelativeToolTip": "Bancos\\BCP.asmx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-06-07T03:47:22.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Banco.cs",
+              "RelativeDocumentMoniker": "Bancos\\App_Code\\Banco.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Banco.cs",
+              "RelativeToolTip": "Bancos\\App_Code\\Banco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKQSURBVDhP7ZNNTBNBFMf/3S50t9svKC3QigcaygFURPCgoEgaTobEqxdvGlETEz0YL\u002BDFxASiJ2NivGiiNzGYYCAmFkyNMfFSlBCEVg5CAa3U7bbQj13fDksTRBIP3vR3mZk3O795O28G/x4mo2WoqurNZDKHjeEfw/P8rCAIs3q/JNQ0zZbNZk9R\u002B3C9kMVGIYeiWmRzJpMJAi/AwluQK\u002BZQUAuQyiWk1lOsLePKhvL5/E2Xy5UsCSmzKyS7TrLK5x9GMDk/gWV5mc2JZQJCjT0IBXsQib3G/Lc5nDvah2sjV3H2yHkcqmuTae2wJElneLaCoIB9Nb1SOTk/ifGZMdp9DdX2anht1dBo3lpuxeP3jzC1GEU6l0ZSSWIhuYAHb\u002B8jlV2zdwdDlbqnJNRZSa/g5ew4EvISjgW60LqnFW6pCkWtCKfghMVswWJqkW1QXxXAdOIjfE4/\u002B2YLzmgZ6Q0Zc6ufKBuJhMfR1dCNgyRtq2tHgyeIoLeRFrths0gIkJA38/Azodsw/CLU4UwcqmhHiRaZObMR3WQ4\u002BhRv4hHEvsZwL3KXEkjjmRHbYodQ1VT6rS90LikUigUjusmFjos42dyLfb79uNU7CKfoQl/nJRbbolRlRVEGppai/bdfDdIZJtBU24wDvhbUOGpJnIddcKCppokKokChzPQz1AtU766HS6x4Qoo7VOV324RUlP6JuTDGZl7geyYJB0noY3YMbXvbcYLOtNbhC9ONmDCWMTiOC4uiGNb7JaEsy6c1aJfljR/to9Oj\u002BJyMQcll2JxAF7oj0IkWfysqxIoblMkAm/gNJaEOvZSQ/lKM4W4MWa3WIaO/g23CeDwueL1edkF3g16U7PF4ZGP4n78O8BNPav9K4hJM/gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-07T03:47:23.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Bancos\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Cuenta.cs",
+              "RelativeToolTip": "Bancos\\App_Code\\Cuenta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKQSURBVDhP7ZNNTBNBFMf/3S50t9svKC3QigcaygFURPCgoEgaTobEqxdvGlETEz0YL\u002BDFxASiJ2NivGiiNzGYYCAmFkyNMfFSlBCEVg5CAa3U7bbQj13fDksTRBIP3vR3mZk3O795O28G/x4mo2WoqurNZDKHjeEfw/P8rCAIs3q/JNQ0zZbNZk9R\u002B3C9kMVGIYeiWmRzJpMJAi/AwluQK\u002BZQUAuQyiWk1lOsLePKhvL5/E2Xy5UsCSmzKyS7TrLK5x9GMDk/gWV5mc2JZQJCjT0IBXsQib3G/Lc5nDvah2sjV3H2yHkcqmuTae2wJElneLaCoIB9Nb1SOTk/ifGZMdp9DdX2anht1dBo3lpuxeP3jzC1GEU6l0ZSSWIhuYAHb\u002B8jlV2zdwdDlbqnJNRZSa/g5ew4EvISjgW60LqnFW6pCkWtCKfghMVswWJqkW1QXxXAdOIjfE4/\u002B2YLzmgZ6Q0Zc6ufKBuJhMfR1dCNgyRtq2tHgyeIoLeRFrths0gIkJA38/Azodsw/CLU4UwcqmhHiRaZObMR3WQ4\u002BhRv4hHEvsZwL3KXEkjjmRHbYodQ1VT6rS90LikUigUjusmFjos42dyLfb79uNU7CKfoQl/nJRbbolRlRVEGppai/bdfDdIZJtBU24wDvhbUOGpJnIddcKCppokKokChzPQz1AtU766HS6x4Qoo7VOV324RUlP6JuTDGZl7geyYJB0noY3YMbXvbcYLOtNbhC9ONmDCWMTiOC4uiGNb7JaEsy6c1aJfljR/to9Oj\u002BJyMQcll2JxAF7oj0IkWfysqxIoblMkAm/gNJaEOvZSQ/lKM4W4MWa3WIaO/g23CeDwueL1edkF3g16U7PF4ZGP4n78O8BNPav9K4hJM/gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-07T03:47:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mercantil.asmx",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\Mercantil.asmx",
+              "RelativeDocumentMoniker": "Bancos\\Mercantil.asmx",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\Mercantil.asmx",
+              "RelativeToolTip": "Bancos\\Mercantil.asmx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALsSURBVDhPzVS7T9NRFP76gD5oSyltoSANIAzSAgkPWWp4JCXEBDYGHRxIcGaFkb\u002BgG7OLMkkCDggmMLBQiglBSGCAgC2FEgr2Af2VSj3n2GCI4GAc/JJf7uuc73fv95178d9DVWjvxdXVVc/NzU1PYfgg1Gr1ssFgWOb\u002Bg4TpdLozn8\u002BPZTKZl2dnZ\u002BAvl8uB5qBSqaDValFeXg6HwwEie0s/DpSUlKypUqmUq8BxB5T0hkj9e3t7WFlZwerqKv8ElMg7AiWjq6sLfX19qKurQ3Fx8Sf62SvV5eVlpMBxB7RoW1pa0s/OzuLo6AhGoxHV1Y\u002BEiIkjkTAol\u002BaqMTg4yMQZSoszYX56ehq7u7tCZDKZMDo6ioODA8zPz4N32OxtRiKZRFtbGyqcFYjFYlj/vA6L2YzNL5uor6/HwMAAvF4vtEzicrnkKAzSQ/TZ2NjAzs4OGyMEyVQSW1tb\u002BHp4iCSRn57GkKG1RCIhcczBhGri\u002BNDd3X1CHxobG1FbWyuiH1IiGYKyMhty33NIpdI4Po7KfJRaHvO8zWaTOJ5naGlnr9mAYDDon5mZgcViwcTEhASxPn5/Pzo7OrGwuICO9g5UVVWJpmuhNfTTWmg9hEVay2azQkiGqUPUPmMNAoEAJicnhfRvca8pIyMjmJqawvb2Nh25DFarlTQ7RWmpFXq9Hgrt/uLbBRx2h7Tn5\u002BdoamrC\u002BPi4aCiCNjQ0yMc1pdPp4Ha7JTkej0Oj1ki5VFZWwl1TIy2PNRqNrHMcxzPYZTZFBgyqPz1p6mttbdWzVvv7\u002B3A6nTAYDfB6vNJn15WsArPJjJPYiWyC4iX/t6tHJjmpVD5S9wkVtm5ubo6KOHJb2CwJ3a7bwmaThoaG0Nvbq9BG4pqfNL/g8XgydPT3ZFY7BT8myP0Nh8OIRqPkcETudVFREXw\u002BH4aHh9HS0sLH58fh\u002BZ8eh6fUjCmK8oINYZLr6\u002Bs7j4PdbpfHgTR/R7H8OAT/\u002BfP1vwP4AR2mbXGZ0lD8AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-07T03:47:23.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BCP.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\BCP.cs",
+              "RelativeDocumentMoniker": "Bancos\\App_Code\\BCP.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\BCP.cs",
+              "RelativeToolTip": "Bancos\\App_Code\\BCP.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCEAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIESURBVDhP1ZS/btpQFMY/mwpVIAFiQeAhDDSVgIk/GxJkyNaMNLRqkhfgBZqFVt3hGSpVAomtaaETQ0HJ4oqBVAIvCAmYQAxgAyWIHl\u002BuSNQUKGmX/qQjn3t8/Pke258F/MJoNHKKoihT6lpWtrNYLN6azeY3er5WMJfLuRRF4dX7GI1GBINBBAIB2O12RRCEDyaT6d0jfv4eupimavD5/bxyS7fbxdXVJXq9HlRVRSgU2pck6RXlhrWCOrrY8fNjvrpF/iajXP6Ker2O6XSK\u002BXyOSCSy73A4UiLveTDNZhOlUgmVSoWt/1pQp91uo9FosHzjyOvweDw4f33OV6Dxy5hMJyx/0A5tVhu9iPAqXJLEz/yjke/yHwlqmvaC4iN98e/JSvZEIoGDgxgMht3uueomkaedTucom80eUjyWZRmDwQCCuKMgefeZHuTfJ7ql8vk8rq\u002B/o/C5gFqtxtv\u002BHNIRL2jUi36//3I4HIIMjrPTM\u002By591jDbPaD7XRTTMZj1qsjkNgik8mgWq3SxTNmdovFwo7xeBxerxfpdJq3/54xCfrJ96lUaukUfWc\u002Brw9OpxOFYgEnJ6f4UiyyZrfbjWQyyfJN2Gw2dlxZT986BAE3N3O0Wi2omsrqVqtVCYfDWbbYAr3Y5cj0M12Z\u002By6xWAzRaPQTPdcjXtoKE\u002BT5OnYQBH4C\u002B4PpoL1Y99UAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-07T03:47:23.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mercantil.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Mercantil.cs",
+              "RelativeDocumentMoniker": "Bancos\\App_Code\\Mercantil.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistribuidos1-24\\Tema7\\Bancos\\Bancos\\App_Code\\Mercantil.cs",
+              "RelativeToolTip": "Bancos\\App_Code\\Mercantil.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCEAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIESURBVDhP1ZS/btpQFMY/mwpVIAFiQeAhDDSVgIk/GxJkyNaMNLRqkhfgBZqFVt3hGSpVAomtaaETQ0HJ4oqBVAIvCAmYQAxgAyWIHl\u002BuSNQUKGmX/qQjn3t8/Pke258F/MJoNHKKoihT6lpWtrNYLN6azeY3er5WMJfLuRRF4dX7GI1GBINBBAIB2O12RRCEDyaT6d0jfv4eupimavD5/bxyS7fbxdXVJXq9HlRVRSgU2pck6RXlhrWCOrrY8fNjvrpF/iajXP6Ker2O6XSK\u002BXyOSCSy73A4UiLveTDNZhOlUgmVSoWt/1pQp91uo9FosHzjyOvweDw4f33OV6Dxy5hMJyx/0A5tVhu9iPAqXJLEz/yjke/yHwlqmvaC4iN98e/JSvZEIoGDgxgMht3uueomkaedTucom80eUjyWZRmDwQCCuKMgefeZHuTfJ7ql8vk8rq\u002B/o/C5gFqtxtv\u002BHNIRL2jUi36//3I4HIIMjrPTM\u002By591jDbPaD7XRTTMZj1qsjkNgik8mgWq3SxTNmdovFwo7xeBxerxfpdJq3/54xCfrJ96lUaukUfWc\u002Brw9OpxOFYgEnJ6f4UiyyZrfbjWQyyfJN2Gw2dlxZT986BAE3N3O0Wi2omsrqVqtVCYfDWbbYAr3Y5cj0M12Z\u002By6xWAzRaPQTPdcjXtoKE\u002BT5OnYQBH4C\u002B4PpoL1Y99UAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-07T03:47:23.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
