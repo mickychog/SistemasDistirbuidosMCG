@@ -1,0 +1,16 @@
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.Form1.resources
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.csproj.GenerateResource.cache
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.AssemblyInfoInputs.cache
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.AssemblyInfo.cs
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.csproj.CoreCompileInputs.cache
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\bin\Debug\net8.0-windows\OficinaTramites.exe
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\bin\Debug\net8.0-windows\OficinaTramites.deps.json
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\bin\Debug\net8.0-windows\OficinaTramites.runtimeconfig.json
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\bin\Debug\net8.0-windows\OficinaTramites.dll
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\bin\Debug\net8.0-windows\OficinaTramites.pdb
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.dll
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\refint\OficinaTramites.dll
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.pdb
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\OficinaTramites.genruntimeconfig.cache
+C:\Users\micky\source\repos\OficinaTramites\OficinaTramites\obj\Debug\net8.0-windows\ref\OficinaTramites.dll

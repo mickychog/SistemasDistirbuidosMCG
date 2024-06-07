@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277C1697-18D3-4C1E-83EC-71280E90E2EC}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva|c:\\users\\micky\\onedrive\\escritorio\\sistemasdistribuidos\\sistemasdistirbuidosmcg\\ejercicioexamen\\servidorreserva\\servidorreserva\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277C1697-18D3-4C1E-83EC-71280E90E2EC}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva|solutionrelative:servidorreserva\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277C1697-18D3-4C1E-83EC-71280E90E2EC}|C:\\win\\ING\\_2024_01\\SIS_258\\EXAMENES\\ejercicio_segundo_parcial\\ServidorReserva\\ServidorReserva|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\servidorreserva\\app_code\\oper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277C1697-18D3-4C1E-83EC-71280E90E2EC}|C:\\win\\ING\\_2024_01\\SIS_258\\EXAMENES\\ejercicio_segundo_parcial\\ServidorReserva\\ServidorReserva|solutionrelative:servidorreserva\\app_code\\oper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oper.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva\\App_Code\\Oper.cs",
+              "RelativeDocumentMoniker": "ServidorReserva\\App_Code\\Oper.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva\\App_Code\\Oper.cs",
+              "RelativeToolTip": "ServidorReserva\\App_Code\\Oper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:08:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva\\App_Code\\WebService.cs",
+              "RelativeDocumentMoniker": "ServidorReserva\\App_Code\\WebService.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistribuidos\\SistemasDistirbuidosMCG\\ejercicioExamen\\ServidorReserva\\ServidorReserva\\App_Code\\WebService.cs",
+              "RelativeToolTip": "ServidorReserva\\App_Code\\WebService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:02:20.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
