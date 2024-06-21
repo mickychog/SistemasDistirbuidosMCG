@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|c:\\users\\micky\\source\\repos\\clientesereci1\\clientesereci1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|solutionrelative:clientesereci1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|c:\\users\\micky\\source\\repos\\clientesereci1\\clientesereci1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|solutionrelative:clientesereci1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|c:\\users\\micky\\source\\repos\\clientesereci1\\clientesereci1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|solutionrelative:clientesereci1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|c:\\users\\micky\\source\\repos\\clientesereci1\\clientesereci1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ADA3E8-F0D8-4098-8F6E-E4755F9DEE6C}|ClienteSereci1\\ClienteSereci1.csproj|solutionrelative:clientesereci1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteSereci1\\Program.cs",
+              "ToolTip": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Program.cs",
+              "RelativeToolTip": "ClienteSereci1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:55:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteSereci1\\Form1.cs",
+              "ToolTip": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.cs",
+              "RelativeToolTip": "ClienteSereci1\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:40:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteSereci1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.Designer.cs",
+              "RelativeToolTip": "ClienteSereci1\\Form1.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:36:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteSereci1\\Form1.cs",
+              "ToolTip": "C:\\Users\\micky\\source\\repos\\ClienteSereci1\\ClienteSereci1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteSereci1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:26:05.257Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicioSereci", "ServicioSereci\", "{606AF6D0-D4AB-442F-B06E-C447C0943EBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54349"
+		Debug.AspNetCompiler.PhysicalPath = "ServicioSereci\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54349\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54349"
+		Release.AspNetCompiler.PhysicalPath = "ServicioSereci\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54349\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54349"
+		SlnRelativePath = "ServicioSereci\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606AF6D0-D4AB-442F-B06E-C447C0943EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606AF6D0-D4AB-442F-B06E-C447C0943EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30AD159-180E-4A3A-814C-134FEC9E49FB}
+	EndGlobalSection
+EndGlobal

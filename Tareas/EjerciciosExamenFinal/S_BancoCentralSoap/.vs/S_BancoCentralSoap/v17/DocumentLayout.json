@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistirbuidosMCG\\Tareas\\EjerciciosExamenFinal\\EjerciciosExamenFinal\\S_BancoCentralSoap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C1665-A4A1-44B1-8327-70C53A7E736C}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistirbuidosMCG\\Tareas\\EjerciciosExamenFinal\\EjerciciosExamenFinal\\S_BancoCentralSoap\\BancoCentralSoap|c:\\users\\micky\\onedrive\\escritorio\\sistemasdistirbuidosmcg\\tareas\\ejerciciosexamenfinal\\ejerciciosexamenfinal\\s_bancocentralsoap\\bancocentralsoap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82C1665-A4A1-44B1-8327-70C53A7E736C}|C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistirbuidosMCG\\Tareas\\EjerciciosExamenFinal\\EjerciciosExamenFinal\\S_BancoCentralSoap\\BancoCentralSoap|solutionrelative:bancocentralsoap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistirbuidosMCG\\Tareas\\EjerciciosExamenFinal\\EjerciciosExamenFinal\\S_BancoCentralSoap\\BancoCentralSoap\\App_Code\\WebService.cs",
+              "RelativeDocumentMoniker": "BancoCentralSoap\\App_Code\\WebService.cs",
+              "ToolTip": "C:\\Users\\micky\\OneDrive\\Escritorio\\SistemasDistirbuidosMCG\\Tareas\\EjerciciosExamenFinal\\EjerciciosExamenFinal\\S_BancoCentralSoap\\BancoCentralSoap\\App_Code\\WebService.cs",
+              "RelativeToolTip": "BancoCentralSoap\\App_Code\\WebService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:06:35.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

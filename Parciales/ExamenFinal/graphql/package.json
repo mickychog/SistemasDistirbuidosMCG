@@ -1,0 +1,20 @@
+{
+  "name": "seduca_graphql",
+  "version": "1.0.0",
+  "description": "mkdir graphql-mysql\r cd graphql-mysql\r npm init -y\r npm install express graphql express-graphql mysql2 sequelize\r node server.js \r #consultas",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "mysql2": "^3.10.0",
+    "sequelize": "^6.37.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJmjPy0OQPgywzDHDsMu0AZYAxgrqZf/hjHyG91V5TPQCXLgzL33sAeQY4VRcAbaOwGS9SqGmc/KCCYd3ni3Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micky\\source\\repos\\appfinal\\appfinal\\appfinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micky\\.nuget\\packages\\graphql.client\\6.1.0\\graphql.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\graphql.client.abstractions\\6.1.0\\graphql.client.abstractions.6.1.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\graphql.client.abstractions.websocket\\6.1.0\\graphql.client.abstractions.websocket.6.1.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\6.1.0\\graphql.client.serializer.newtonsoft.6.1.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\graphql.primitives\\6.1.0\\graphql.primitives.6.1.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512",
+    "C:\\Users\\micky\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
